@@ -1,0 +1,1 @@
+From The Odin Project's curriculum. This is a clone of the google homepage
